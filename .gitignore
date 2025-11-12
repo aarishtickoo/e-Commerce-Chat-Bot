@@ -16,3 +16,7 @@ app/db.sqlite
 .env
 app/db.sqlite
 .idea/
+.env
+app/.env
+app/db.sqlite
+.idea/
