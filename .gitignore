@@ -10,3 +10,9 @@ app/db.sqlite
 __pycache__/
 venv/
 .env
+.env
+app/db.sqlite
+.idea/
+.env
+app/db.sqlite
+.idea/
