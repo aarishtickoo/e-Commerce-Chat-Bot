@@ -1,22 +1,12 @@
+# IDE files
 .idea/
 *.iml
+
+# Environments
 venv/
-__pycache__/
-.env
-.idea/
-*.iml
-.env
-app/db.sqlite
-__pycache__/
-venv/
-.env
-.env
-app/db.sqlite
-.idea/
-.env
-app/db.sqlite
-.idea/
 .env
 app/.env
+
+# Caches and databases
+__pycache__/
 app/db.sqlite
-.idea/
